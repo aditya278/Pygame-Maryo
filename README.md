@@ -7,7 +7,7 @@ It has been made for Educational and self learning purpose and not for any comme
 The Source code along with all the necessary files for the game have been uploaded. Just download all the files
 and then run the "FinalProject.py" file.
 
-## Pre-Requisites
+## Pre-requisites
 Python 3.0 or above and Pygame module.
 
 ## Screenshots of the Game
